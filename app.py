@@ -9,7 +9,7 @@ import random
 from statsmodels.tsa.arima.model import ARIMA
 
 # --- Constants ---
-API_KEY = "01851383408244ff9f8112646252704"  # Replace with your real WeatherAPI key
+API_KEY = "9046f1d78aa940cda99110043251205"  # Replace with your real WeatherAPI key
 CURRENT_URL = "http://api.weatherapi.com/v1/current.json"
 FORECAST_URL = "http://api.weatherapi.com/v1/forecast.json"
 
